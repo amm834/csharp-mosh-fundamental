@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\bin\Debug\net6.0\IfElseSwitch.exe
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\bin\Debug\net6.0\IfElseSwitch.deps.json
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\bin\Debug\net6.0\IfElseSwitch.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\bin\Debug\net6.0\IfElseSwitch.dll
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\bin\Debug\net6.0\IfElseSwitch.pdb
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.dll
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\refint\IfElseSwitch.dll
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.pdb
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\IfElseSwitch.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh\IfElseSwitch\IfElseSwitch\obj\Debug\net6.0\ref\IfElseSwitch.dll
