@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\bin\Debug\net6.0\ReferenceVSValue1.exe
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\bin\Debug\net6.0\ReferenceVSValue1.deps.json
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\bin\Debug\net6.0\ReferenceVSValue1.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\bin\Debug\net6.0\ReferenceVSValue1.dll
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\bin\Debug\net6.0\ReferenceVSValue1.pdb
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.dll
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\refint\ReferenceVSValue1.dll
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.pdb
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ReferenceVSValue1.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh\ReferenceVSValue1\ReferenceVSValue1\obj\Debug\net6.0\ref\ReferenceVSValue1.dll
