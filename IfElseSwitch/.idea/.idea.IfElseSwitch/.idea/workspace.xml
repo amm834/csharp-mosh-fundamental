@@ -4,8 +4,11 @@
     <projectFile>IfElseSwitch/IfElseSwitch.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aaf4b56-e438-4670-845f-829198bcdaf2" name="Changes" comment="If else done">
+    <list default="true" id="2aaf4b56-e438-4670-845f-829198bcdaf2" name="Changes" comment="Tenary done">
+      <change afterPath="$PROJECT_DIR$/IfElseSwitch/Languages.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IfElseSwitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IfElseSwitch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IfElseSwitch/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IfElseSwitch/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElseSwitch/obj/Debug/net6.0/IfElseSwitch.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IfElseSwitch/obj/Debug/net6.0/IfElseSwitch.csproj.CoreCompileInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +22,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28R3C93qrmF83Vxv6Ii70b7PF6r" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651165440777</updated>
-      <workItem from="1651165446594" duration="635000" />
+      <workItem from="1651165446594" duration="861000" />
     </task>
     <task id="LOCAL-00001" summary="If else done">
       <created>1651166040485</created>
@@ -67,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651166040485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tenary done">
+      <created>1651166108114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651166108114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,8 +102,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="If else done" />
-    <option name="LAST_COMMIT_MESSAGE" value="If else done" />
+    <MESSAGE value="Tenary done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tenary done" />
   </component>
 </project>
