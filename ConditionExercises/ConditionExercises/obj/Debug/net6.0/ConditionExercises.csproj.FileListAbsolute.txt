@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\bin\Debug\net6.0\ConditionExercises.exe
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\bin\Debug\net6.0\ConditionExercises.deps.json
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\bin\Debug\net6.0\ConditionExercises.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\bin\Debug\net6.0\ConditionExercises.dll
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\bin\Debug\net6.0\ConditionExercises.pdb
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.dll
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\refint\ConditionExercises.dll
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.pdb
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ConditionExercises.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh\ConditionExercises\ConditionExercises\obj\Debug\net6.0\ref\ConditionExercises.dll
