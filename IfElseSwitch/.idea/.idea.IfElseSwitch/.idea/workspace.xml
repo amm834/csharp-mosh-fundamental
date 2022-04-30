@@ -4,12 +4,7 @@
     <projectFile>IfElseSwitch/IfElseSwitch.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aaf4b56-e438-4670-845f-829198bcdaf2" name="Changes" comment="Tenary done">
-      <change afterPath="$PROJECT_DIR$/IfElseSwitch/Languages.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IfElseSwitch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IfElseSwitch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfElseSwitch/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IfElseSwitch/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfElseSwitch/obj/Debug/net6.0/IfElseSwitch.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IfElseSwitch/obj/Debug/net6.0/IfElseSwitch.csproj.CoreCompileInputs.cache" afterDir="false" />
-    </list>
+    <list default="true" id="2aaf4b56-e438-4670-845f-829198bcdaf2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651165440777</updated>
-      <workItem from="1651165446594" duration="861000" />
+      <workItem from="1651165446594" duration="976000" />
     </task>
     <task id="LOCAL-00001" summary="If else done">
       <created>1651166040485</created>
@@ -80,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651166108114</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Switch done">
+      <created>1651166335898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651166335898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +108,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="If else done" />
     <MESSAGE value="Tenary done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tenary done" />
+    <MESSAGE value="Switch done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch done" />
   </component>
 </project>

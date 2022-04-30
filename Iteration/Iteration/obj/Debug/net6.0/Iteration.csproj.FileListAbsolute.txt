@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\bin\Debug\net6.0\Iteration.exe
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\bin\Debug\net6.0\Iteration.deps.json
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\bin\Debug\net6.0\Iteration.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\bin\Debug\net6.0\Iteration.dll
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\bin\Debug\net6.0\Iteration.pdb
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.dll
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\refint\Iteration.dll
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.pdb
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\Iteration.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh\Iteration\Iteration\obj\Debug\net6.0\ref\Iteration.dll
