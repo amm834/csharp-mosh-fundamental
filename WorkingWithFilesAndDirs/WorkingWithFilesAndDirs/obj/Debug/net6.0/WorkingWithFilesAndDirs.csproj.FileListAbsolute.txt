@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\bin\Debug\net6.0\WorkingWithFilesAndDirs.exe
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\bin\Debug\net6.0\WorkingWithFilesAndDirs.deps.json
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\bin\Debug\net6.0\WorkingWithFilesAndDirs.runtimeconfig.json
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\bin\Debug\net6.0\WorkingWithFilesAndDirs.dll
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\bin\Debug\net6.0\WorkingWithFilesAndDirs.pdb
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.AssemblyInfo.cs
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.dll
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\refint\WorkingWithFilesAndDirs.dll
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.pdb
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\WorkingWithFilesAndDirs.genruntimeconfig.cache
+C:\Users\User\RiderProjects\csharp-mosh\WorkingWithFilesAndDirs\WorkingWithFilesAndDirs\obj\Debug\net6.0\ref\WorkingWithFilesAndDirs.dll
