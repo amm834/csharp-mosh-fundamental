@@ -4,7 +4,9 @@
     <projectFile>WorkingWithTex/WorkingWithTex.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebab35ef-a9e8-48ac-a1bb-401b3062d778" name="Changes" comment="Summarizing string done" />
+    <list default="true" id="ebab35ef-a9e8-48ac-a1bb-401b3062d778" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WorkingWithText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithText/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9c26c0c8215647c3b2033784842472ff83498/0e/6dffb3d0/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dbb9b76d07e4477885c165cd6116d8cca23898/7c/9423eccc/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithTex/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f8b3e49465b3430e8c921a954a6e8cb026498/0b/eba49cdf/Console.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10708.47643/Strings.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -62,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651345110681</updated>
       <workItem from="1651345111748" duration="524000" />
-      <workItem from="1651401454532" duration="2199000" />
+      <workItem from="1651401454532" duration="3041000" />
     </task>
     <task id="LOCAL-00001" summary="Summarizing string done$">
       <created>1651403287215</created>
@@ -71,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651403287215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Using string builder">
+      <created>1651403908372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651403908372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Summarizing string done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Summarizing string done" />
+    <MESSAGE value="Using string builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using string builder" />
   </component>
 </project>
